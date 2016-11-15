@@ -11,8 +11,6 @@
 
 ![Alt text](/系統介面.PNG "系統介面")
 
-![Alt text](IMG_20161102_164401.jpg  "usecase1")
-
 
 
 ### 目的：
