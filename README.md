@@ -47,6 +47,18 @@
 ### 循序圖<br>
 
 ![Alt text](/sequenceDiagram.png)
+### 介面藍圖<br>
+![Alt text](/介面藍圖_車機系統.jpg)
+![Alt text](/介面藍圖_駕駛行為.jpg)
+![Alt text](/介面藍圖_尋車系統.jpg)
+### 介面詞彙<br>
+![Alt text](/介面詞彙_客戶登入UI.png)
+![Alt text](/介面詞彙_駕駛行為UI.png)
+![Alt text](/介面詞彙_尋找車輛UI.png)
+### 使用者個案之行為狀態機圖<br>
+![Alt text](/使用者個案_行為狀態機圖.jpg)
+### 車機APP之行為狀態機圖<br>
+![Alt text](/車機APP_行為狀態機圖.jpg)
 
 ### 目的：
 
