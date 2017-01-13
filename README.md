@@ -71,6 +71,17 @@
 ### 「尋找車輛」使用者個案之類別圖  
 ![Alt text](findCar type.png)
 
+### OCL描述產生的 Java 程式碼
+### 以客戶登入為例
+![Alt text](ocl.png)
+### 駕駛行為APP之實體類別圖
+![Alt text](駕駛行為APP之實體類別圖.png)
+### MDA轉換-PIM 轉 EJB PSM 與 Java Code
+### 以「查看駕駛行為」為例
+### 類別 Driving_behavior 轉成樣板類別
+![Alt text](mda.png)
+### 駕駛行為APP之元件圖  
+![Alt text](元件圖.png)
 ### 目的：
 
 1. 車險費用能有公平的計算方式  
