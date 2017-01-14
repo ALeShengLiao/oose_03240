@@ -95,6 +95,8 @@
 4. 保險理賠方面能有正確判斷  
     若駕駛人發生意外，這時保險公司就會進行理賠程序，在判斷哪位駕駛人應負的責任較大時，可使用我們所收集的資料來模擬駕駛人當時行車的狀況，因此在理賠方面做出最正確的判斷。
 ### 系統分析期末報告影片：
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/HLdQXPL2COs/0.jpg)](http://www.youtube.com/watch?v=HLdQXPL2COs)
 ### 系統分析Demo影片：
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/BnOATvSWMqE/0.jpg)](http://www.youtube.com/watch?v=BnOATvSWMqE)
 ### 工作分配表：
 ![Alt text](工作分配表.png)
